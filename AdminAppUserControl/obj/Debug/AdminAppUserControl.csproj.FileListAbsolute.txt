@@ -1,0 +1,14 @@
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\bin\Debug\AdminAppUserControl.exe.config
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\bin\Debug\AdminAppUserControl.exe
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\bin\Debug\AdminAppUserControl.pdb
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.Form1.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.LogIn.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.Properties.Resources.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.csproj.GenerateResource.cache
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.exe
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.pdb
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.SignUp.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.PostJob.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.home.resources
+C:\Users\Yahoo\source\repos\AdminAppUserControl\AdminAppUserControl\obj\Debug\AdminAppUserControl.csprojAssemblyReference.cache
